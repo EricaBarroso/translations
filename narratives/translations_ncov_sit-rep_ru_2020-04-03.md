@@ -261,13 +261,13 @@ abstract: "Этот отчет использует общедоступные �
 ```auspiceMainDisplayMarkdown
 # Выводы
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### Мы находим доказательства локальной передачи в Сенегал и ДР Конго. Необходимо принять срочные меры по сдерживанию вспышки в этих уязвимых регионах. У нас пока нет достаточного количества данных, чтобы оценить ситуацию в других частях Африки. 
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### Недавние внедрения в Японии связаны с путешествием на круизном лайнере.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### Обширное секвенирование в Исландии подчеркивает степень связанного с поездками распространения вируса и выявляет вероятную местную передачу в Австрии.
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### Случаи в США смешаны по всему дереву, демонстрируя широкое распространение между штатами. Есть также свидетельства смешивания через границу США и Канады с местной передачей в Онтарио.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->

@@ -200,47 +200,48 @@ Voor elk monster kunnen we conclusies trekken over waar zijn voorgangers moeten 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Reisgeschiedenissen onthullen lokale transmissie in Oostenrijk](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
-<br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
-<br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
-
+Dit is ook een krachtig voorbeeld van hoe uitgebreide sequencing-inspanningen en reisregistratie door één land ons kunnen helpen de lokale situatie elders te begrijpen, zelfs voor plaatsen die nog geen sequentiegegevens genereren.
+<br> <br>
+Als we kijken naar de gevallen die in IJsland zijn gesequenced na gerapporteerde reizen naar Oostenrijk, zien we meerdere clusters van nauw verwante Oostenrijkse gevallen, gesequenced over een korte periode.
+Dit komt het meest overeen met een scenario waarin er meerdere introducties in Oostenrijk waren. We kunnen niet zeker weten of de gekoppelde sequenties lokale transmissie in Oostenrijk vertegenwoordigen, of dat reispartners met elkaar verbinden na blootstelling aan dezelfde virusstam.
+<br> <br>
+Hoewel grijs weergegeven, is het aantal verbindingen tussen verschillende Europese landen opmerkelijk. De meeste Europese landen lijken meerdere introducties te hebben, dus er is geen 'eenvoudig' verhaal over hoe het virus zich door Europa heeft verspreid - het was waarschijnlijk al weken geleden wijd verbreid.
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Updates voor Noord-Amerika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Uitgebreide vermenging in de V.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
-<br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
-<br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Naarmate we een vollediger beeld krijgen van de uitbraak in de Verenigde Staten, is het duidelijk dat deze lokale uitbraken het resultaat zijn van uitgebreide menging.
+<br> <br>
+Hoewel veel van de vroege gevallen reisgerelateerd waren, zijn de meer recente gevallen uit veel verschillende staten grotendeels met elkaar INTERMINGLED over de boom.
+<br> <br>
+Dit benadrukt dat een eendrachtige strategie cruciaal zal zijn om deze uitbraak te stoppen.
+
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Twee lokale transmissie ketens circuleren in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
-<br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
-<br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
-<br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Hier zien we twee clusters van sequenties uit Ontario. Deze clusters zijn niet gegroepeerd en elk cluster nestelt zich naast monsters uit andere landen, wat aangeeft dat deze het resultaat waren van twee afzonderlijke introducties.
+<br> <br>
+Binnen elk cluster is elk van deze gevallen echter het nauwst verwant aan andere gevallen uit Ontario, wat aangeeft dat dit hoogstwaarschijnlijk lokale transmissie is.
+<br> <br>
+Hieruit leiden we af dat er sinds ten minste 3 maart waarschijnlijk lokale transmissie in Ontario is geweest.
+<br> <br>
+Interessant is dat de meeste omringende sequenties (vervaagde tips) uit de Verenigde Staten komen, wat suggereert dat er een aanzienlijke menging is geweest tussen de twee landen.
+
 <!-- There is no right side text -->
 
 
@@ -248,19 +249,19 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Wat u kunt doen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...als individue
+* Beoefen strikte sociale onthouding.
+* Zelfs als je niet kwetsbaar bent, beoefen sociale onthouding om anderen te beschermen.
+* Was je handen "alsof je net een jalapeno hebt gehakt en een contactlens moet vervangen."
+* Blijf zoveel mogelijk thuis -- vooral als je ziek bent; wees voorbereid met een paar extra benodigdheden.
+* Als u een werkgever bent, moedig uw werknemers aan om waar mogelijk thuis te werken.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...als ambtenaar
+* Maak testen gratis en algemeen beschikbaar.
+* Zorg voor sterke sociale onthoudingsmaatregelen.
+* Financier en implementeer uitgebreide contacttracering en isolatie-inspanningen.
+* Verleen financiële steun aan degenen die worden getroffen door maatregelen voor sociale onthouding.
 
 
 <!-- This is the right-side text -->
@@ -268,13 +269,13 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 ```auspiceMainDisplayMarkdown
 # Takeaways
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
-<br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
-<br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
-<br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### We vinden bewijs voor lokale transmissie binnen Senegal en de DRC. Er moet snel actie worden ondernomen om de uitbraak in deze kwetsbare gebieden in te dammen. We hebben nog niet genoeg gegevens om de situatie in andere delen van Afrika te beoordelen.
+<br> <br> <br>
+#### Recente introducties in Japan worden geassocieerd met cruiseschip reizen.
+<br> <br> <br>
+#### Uitgebreide sequentiebepaling door IJsland benadrukt de omvang van de reisgerelateerde verspreiding en onthult waarschijnlijke lokale transmissie in Oostenrijk.
+<br> <br> <br>
+#### Gevallen van dwars door de Verenigde Staten komen samen in de boom, wat een uitgebreide verspreiding over staatsgrenzen aantoont. Er zijn ook aanwijzingen voor vermenging over de Amerikaans-Canadese grens en lokale transmissie binnen Ontario. 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -285,20 +286,20 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wij willen onze dank uitspreken voor het fantastische en tijdige werk dat is verricht door alle wetenschappers die bij deze uitbraak betrokken zijn, en met name door degenen die in China werkzaam zijn. Alleen door het snel delen van genomische gegevens en metadata zijn dit soort analyses mogelijk.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Wij zijn ook GISAID dankbaar voor het leveren van het platform waarmee deze gegevens kunnen worden geüpload en gedeeld.
+
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+We zijn dankbaar voor de gegevens die door deze laboratoria oorspronkelijk zijn verzameld:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -617,19 +618,18 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Gedetaileerd wetenschappelijk dankwoord](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Deze gegevens werden gedeeld via [GISAID](https://gisaid.org). Wij zijn dankbaar voor hun bijdragen.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Rechts geven we specifieke sequenties die door elk lab worden gedeeld.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+The SARS-CoV-2 genomen werden ruimhartig gedeeld door wetenschappers in deze toezendende laboratoria:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

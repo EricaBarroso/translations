@@ -173,33 +173,34 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Последние данные по Европе](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Обширное секвенирование в Исландии подчеркивает степень распространения, связанного с путешествиями](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+Недавно нам стали доступны 301 последовательности -- от 25\% [подтвержденных случаев]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- из Исландии.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+Раскрашивая каждый образец в соответствии с его историей путешествий, мы видим, что примерно половина этих инфекций была получена за пределами Исландии, в то время как вторая половина представляет предполагаемые локально приобретенные инфекции (показаны серым).
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+Как мы [сообщали на прошлой неделе](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), это подчеркивает, как много смешиваний произошло между вспышками в каждой европейской стране.
+Для каждого полученного образца мы можем сделать выводы о том, где побывали его предшественники, но не можем исключить возможность косвенной передачи через невыявленный регион.
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Истории путешествий раскрывают локальную передачу в Австрии](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+Это также является ярким примером того, как совместные усилия секвенирования и регистрации поездок в одной стране могут помочь нам понять местную ситуацию в другом месте, даже там, где данные секвенирования пока не доступны.
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+Смотря на случаи, секвенированные в Исландии после поездки в Австрию, мы видим множество кластеров тесно связанных с австрийскими случаями, полученных за короткий промежуток времени. 
+Это наиболее вероятно согласуется со сценарием, в котором Австрия имела множество внедрений. Мы не можем быть уверены в том, что связанные последовательности представляют передачу в общинах в Австрии или партнеров по путешествиям, группирующихся вместе после воздействия одного и того же штамма.
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+Как показано серым цветом, количество связей между различными европейскими странами - значительно. Кажется, что в большинстве европейских стран были многократные внедрения, поэтому здесь нет 'простой' истории о том, как вирус распространился по Европе - он, вероятно, широко распространялся несколько недель назад.
 
 
 

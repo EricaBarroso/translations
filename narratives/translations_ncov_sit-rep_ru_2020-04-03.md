@@ -82,7 +82,7 @@ abstract: "Этот отчет использует общедоступные �
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain Ресурсы 
 
 [Как читать филогенетические деревья](https://nextstrain.org/narratives/trees-background/).  
 
@@ -95,7 +95,7 @@ abstract: "Этот отчет использует общедоступные �
 [Распространенные заблуждения](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
+## Внешние Источники 
 [Ситуационные Отчеты Всемирной Организации Здравоохранения](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
 [Ресурсы центра по контролю и профилактике заболеваний США](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -149,25 +149,23 @@ abstract: "Этот отчет использует общедоступные �
 # [Продолжающаяся локальная передача в ДР Конго](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 На этой неделе мы получили 8 новых геномных последовательностей из Киншаса в Демократической Республике Конго. 
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
-
-
+Все новые образцы кроме одного кластеризуются с местными очагами вспышки, о которых [мы сообщали на прошлой неделе](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Это наглядно показывает, что локальная передача продолжается в ДР Конго, и необходимо принять быстрые меры для сдерживания вспышки.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Последние данные по Азии](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Недавние внедрения в Японии связаны с круизным лайнером](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+Из 16 недавних последовательностей, полученных из Японии, 10 совершили круиз по реке Нил. После диагностики и выделения последовательностей в Японии, все 16 случаев разделились между двумя кластерами. Интересно, что эти кластеры не связаны с другими японскими или азиатскими последовательностями, а группируются кластерами, которые в основном были найдены в Америке и Европе.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Таким образом, эти японские путешественники, вероятнее всего, были заражены штаммами от европейцев и американцев, посещавших Египет. Так как образцы были собраны в середине Марта, после того, как путешественники вернулись в Японию, это свидетельствует о том, что штаммы, которые в основном циркулировали в Европе и США, экспортировались по всему миру в начале марта через глобальные путешествия.
 <!-- There is no right side text -->
 
 

@@ -19,7 +19,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Daniel Taliun
+translators: Daniel Taliun, Irina Kalita
 translatorLinks:
 date: "3 Апреля 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"

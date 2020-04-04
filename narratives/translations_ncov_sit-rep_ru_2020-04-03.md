@@ -207,33 +207,33 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Последние данные по Северной Америке](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Обширное смешивание на территории США](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+По мере того, как мы получаем более полную картину вспышки в США, становится ясно, что эти локализованные вспышки являются результатом обширного смешивания.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+В то время как многие ранние случаи были связаны с поездками, более поздние случаи из разных штатов значительно перемешаны друг с другом по всему дереву.
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Это подчеркивает, что единая стратегия будет иметь решающее значение в борьбе с этой вспышкой.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Две локальные цепи передач, циркулирующие в Онтарио](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+Здесь мы видим два кластера последовательностей из Онтарио. Эти кластеры не группируются вместе, и каждый кластер находится рядом с образцами из других стран, что указывает на результат от двух разных внедрений.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Внутри каждого кластера, однако, каждый случай ближе всего относится к другим случаям из Онтарио, говоря о наиболее вероятной локальной передаче в общинах. 
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+На основе этих данных мы делаем вывод, что локальная передача в Онтарио, вероятно, продолжается, как минимум, с 3 марта.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Интересно отметить, что большинство близлежащих последовательностей (блеклые концы) принадлежат Соединенным Штатам, что говорит о значительном смешивании между этими двумя странами.
 <!-- There is no right side text -->
 
 

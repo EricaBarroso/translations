@@ -241,25 +241,25 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Что можешь сделать ты](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...лично
+* Практикуй строгое социальной дистанцирование.
+* Даже если ты не относишься к уязвимой группе, практикуй социальное дистанцирование, чтобы защитить окружающих.
+* Мой руки так, как будто ты "только что порезал острый перец халапеньо и должен поменять контактные линзы".
+* Оставайся дома, насколько это возможно, - особенно, если ты болен; запасись дополнительными предметами первой необходимости.
+* Если ты работодатель, поощряй своих сотрудников работать на дому, насколько это возможно.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...как должностное лицо
+* Обеспечь бесплатное и широко доступное тестирование.
+* Установи строгие меры социального дистанцирования.
+* Финансируй и прилагай широкие усилия по отслеживанию контактов и изоляции.
+* Финансово поддерживай тех, на кого воздействуют меры социального дистанцирования.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Выводы
 <br><br>
 #### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
 <br><br><br>
@@ -278,20 +278,20 @@ abstract: "Этот отчет использует общедоступные �
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Благодарности](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Мы хотели бы отметить удивительную и своевременную работу всех ученых, вовлеченных в исследование этой эпидемии, особенно тех, кто работает в Китае. 
+Только благодаря быстрому обмену генетическими данными и метаданными стали возможны анализы, подобные этому.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Мы также хотели бы поблагодарить GISAID за предоставление платформы, через которую эти данные могут быть загружены и распространены.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Мы благодарим следующие лаборатории за собранные исходные данные:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -610,19 +610,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Детальные благодарности](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Эти данные были распространены через [GISAID](https://gisaid.org).
+Мы глубоко благодарны за их вклад.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Справа мы приводим детальный список последовательностей генома, предоставленных каждой из лабораторий.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Геномы SARS-CoV-2 были щедро предоставлены учеными из следующих лабораторий:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

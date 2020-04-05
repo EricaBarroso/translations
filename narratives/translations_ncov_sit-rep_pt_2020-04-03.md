@@ -112,11 +112,11 @@ Se você não está familiarizado com árvores filogenéticas, encorajamos que l
 
 <!-- This is left-side text 3-->
 # [Observação sobre amostragem](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-Atualmente temos amostras sequenciadas em 53 países entre 6 continentes. Isso é um feito incrível — sequenciar um vírus RNA longo e desconhecido em meio a uma pandemia é difícil, e só é possível através do incrível trabalho e rápido compartilhamento de dados por cientistas e médicos em todo o mundo.
+Atualmente temos amostras sequenciadas em 53 países entre 6 continentes. Isso é um feito incrível — sequenciar um vírus de RNA longo e desconhecido em meio a uma pandemia é difícil, e só é possível através do incrível trabalho e rápido compartilhamento de dados por cientistas e médicos em todo o mundo.
 <br><br>
-Embora esses dados nos permitem inferir muitas características úteis do surto e rastrear seu espalhamento em tempo real, é importante enfatizar que nossas conclusões são limitadas pela quantidade de dados disponíveis no momento.
+Embora esses dados nos permitem inferir muitas características úteis do surto e rastrear a sua propagação em tempo real, é importante enfatizar que nossas conclusões são limitadas pela quantidade de dados disponíveis no momento.
 <br><br>
-Por exemplo, o mapa mostra muitas poucas sequências do hemisfério sul. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam tão importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área, e não o tamanho real do surto.
+Por exemplo, o mapa mostra muitas poucas sequências do hemisfério sul. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam também importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área, e não o tamanho real do surto.
 
 <!-- There is NO right-side text -->
 
@@ -126,7 +126,7 @@ Por exemplo, o mapa mostra muitas poucas sequências do hemisfério sul. Isso N�
 <!-- This is left-side text 4-->
 # [Atualizações da África](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-Essa semana temos atualizações relacionados à Senegal e República Democrática do Congo. É importante ressaltar que isso não significa que não haja casos de COVID-19 em outras partes da África; Assim sendo, faremos inferências acerca desses dois países, dos quais temos dados suficientes.
+Temos atualizações nesta semana para Senegal e República Democrática do Congo. É importante ressaltar que isso não significa que não haja casos de COVID-19 em outras partes da África; Assim sendo, faremos inferências acerca desses dois países, dos quais temos dados suficientes.
 <!-- There is no right side text -->
 
 
@@ -162,9 +162,9 @@ Isso demonstra que há uma transmissão local em andamento na RDC e é necessár
 <!-- This is left-side text 8-->
 # [Introduções recentes no Japão estão associadas a navios de cruzeiro](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Dos 16 sequenciamentos do Japão recentemente adicionados, 10 têm histórico de viagens a bordo de um cruzeiro pelo rio Nilo. Após serem diagnosticados e amostrados no Japão, todos os 16 se dividiram entre dois clusters. Curiosamente, esses clusters não se vinculam a outros sequenciamentos japoneses ou asiáticos, mas se enquadram em clusters encontrados principalmente nos EUA e na Europa.
+Dos 16 sequenciamentos do Japão recentemente adicionados, 10 têm histórico de viagens a bordo de um cruzeiro pelo rio Nilo. Após serem diagnosticados e amostrados no Japão, todos os 16 se dividiram entre dois clusters.  Curiosamente, esses agrupamentos não se vinculam a outras sequências japonesas ou asiáticas, mas se enquadram em clusters encontrados principalmente nos EUA e na Europa.
 <br><br>
-Assim, parece provável que esses viajantes japoneses foram infectados por cepas oriundas de outros viajantes europeus e americanos que visitavam o Egito. Como os sequenciamentos foram amostrados em meados de março depois que os viajantes retornaram ao Japão, fica evidente que variações que circulavam principalmente na Europa e nos EUA estavam sendo exportadas para todo o mundo no início de março por meio de viagens globais.
+Assim, parece provável que esses viajantes japoneses foram infectados por cepas oriundas de outros viajantes europeus e americanos que visitavam o Egito. Como as seqüências foram amostradas em meados de março, depois que os viajantes retornaram ao Japão, isso é evidência de que variantes que circulavam na Europa e nos EUA estavam sendo exportadas para todo o mundo no início de março por meio de viagens internacionais.
 <!-- There is no right side text -->
 
 
@@ -180,11 +180,11 @@ Assim, parece provável que esses viajantes japoneses foram infectados por cepas
 <!-- This is left-side text 10-->
 # [Sequenciamento extensivo feito pela Islândia ressalta a extensão da propagação associada a viagens](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-Recentemente recebemos 301 sequenciamentos — de 25\% de [casos confirmados]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) — da Islândia.
+Recentemente recebemos 301 sequências — de 25\% de [casos confirmados]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) — da Islândia.
 <br><br>
 Colorindo cada amostra pelo seu histórico de viagens registrado, vemos que aproximadamente metade dessas infecções foram adquiridas fora da Islândia, enquanto metade é presumida como infecções localmente adquiridas (mostradas em cinza).
 <br><br>
-Conforme [relatamos na semana passada](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=5), isso destaca o quanto de mistura existe entre os surtos em cada país europeu. Para qualquer amostra, podemos extrair inferências sobre onde devem estar seus antecessores, mas não podemos descartar a possibilidade de transmissão indireta por meio de um local não amostrado.
+Conforme [relatamos na semana passada](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=5), isso destaca a quantidade de mistura existe entre os surtos em cada país europeu. Para qualquer amostra, podemos extrair inferências sobre onde devem estar seus antecessores, mas não podemos descartar a possibilidade de transmissão indireta por meio de um local não amostrado.
 <!-- There is no right side text -->
 
 
@@ -223,13 +223,14 @@ Isso enfatiza que uma estratégia unificada será crucial para interromper esse 
 <!-- This is left-side text 14-->
 # [Duas cadeias de transmissão local circulando em Ontário (Canadá)](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Aqui, vemos dois clusters de sequenciamentos de Ontário (Canadá). Esses clusters não se agrupam, e cada cluster se aninha ao lado de amostras de outros países, indicando que estes foram o resultado de duas introduções separadas.
+Aqui, vemos dois agrupamentos de sequências de Ontário (Canadá). Esses dois grupos não se agrupam entre si, e cada um se assenta ao lado de amostras de outros países
+, indicando que estes foram o resultado de duas introduções separadas.
 <br><br>
-Dentro de cada cluster, no entanto, cada um desses casos é mais intimamente relacionado a outros casos de Ontário, indicando que isso provavelmente configura transmissão comunitária.
+Dentro de cada agrupamento, no entanto, cada um desses casos é mais intimamente relacionado a outros casos de Ontário, indicando que isso provavelmente configura transmissão comunitária.
 <br><br>
 A partir disso, inferimos que provavelmente há transmissão comunitária ocorrendo em Ontário desde pelo menos o dia 3 de março.
 <br><br>
-Curiosamente, a maioria dos sequenciamentos ao redor (pontos mais fracos) são dos EUA, sugerindo que houve uma mistura significativa entre os dois países.
+Curiosamente, a maioria das sequências ao redor (terminais em cores mais fracas) são dos EUA, sugerindo que houve uma mistura significativa entre os dois países.
 <!-- There is no right side text -->
 
 

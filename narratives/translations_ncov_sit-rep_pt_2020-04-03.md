@@ -134,11 +134,11 @@ Essa semana temos atualizações relacionados à Senegal e República Democráti
 <!-- This is left-side text 5-->
 # [Duas cadeias de transmissão locais circulando em Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Aqui vemos dois clusters de casos de Senegal. Esses clusters não se agrupam, o que indica que eles foram o resultado de pelo menos duas introduções separadas. Cada um desses clusters consiste em casos intimamente relacionados, amostrados em um curto período de tempo, consistente com transmissão local.
+Aqui vemos dois agrupamentos (clusters) de casos de Senegal. Esses agrupamentos não se agrupam entre si, o que indica que eles foram o resultado de pelo menos duas introduções separadas. Cada um desses agrupamentos consiste em casos intimamente relacionados, amostrados em um curto período de tempo, consistente com transmissão local.
 <br><br>
-O cluster mostrado no topo da árvore consiste em casos amostrados em Dakar entre 28 de fevereiro e 4 de março. Isso sugere que o hCoV-19 provavelmente circula localmente em Dakar há pelo menos 1 mês.
+O agrupamento mostrado no topo da árvore consiste em casos amostrados em Dakar entre 28 de fevereiro e 4 de março. Isso sugere que o hCoV-19 provavelmente circula localmente em Dakar há pelo menos 1 mês.
 <br><br>
-No meio da árvore, há um cluster de casos amostrados em Touba entre 10 e 12 de março. Isso sugere que o hCoV-19 pode estar circulando em Touba por cerca de 3 semanas.
+No meio da árvore, há um agrupamentos de casos amostrados em Touba entre 10 e 12 de março. Isso sugere que o hCoV-19 pode estar circulando em Touba por cerca de 3 semanas.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -146,7 +146,7 @@ No meio da árvore, há um cluster de casos amostrados em Touba entre 10 e 12 de
 # [Transmissão local continuada na RD Congo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 Recebemos 8 novos genomas esta semana de Kinshasa (República Democrática do Congo).
 <br><br>
-Todos, com exceção de 1 das novas amostras, fazem parte do mesmo cluster do [surto local relatado na semana passada](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=16).
+Todos, com exceção de 1 das novas amostras, fazem parte do mesmo agrupamento (cluster) do [surto local relatado na semana passada](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=16).
 Isso demonstra que há uma transmissão local em andamento na RDC e é necessário tomar medidas rápidas para conter o surto.
 
 
@@ -162,7 +162,7 @@ Isso demonstra que há uma transmissão local em andamento na RDC e é necessár
 <!-- This is left-side text 8-->
 # [Introduções recentes no Japão estão associadas a navios de cruzeiro](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Dos 16 sequenciamentos do Japão recentemente adicionados, 10 têm histórico de viagens a bordo de um cruzeiro pelo rio Nilo. Após serem diagnosticados e amostrados no Japão, todos os 16 se dividiram entre dois clusters. Curiosamente, esses clusters não se vinculam a outros sequenciamentos japoneses ou asiáticos, mas se enquadram em clusters encontrados principalmente nos EUA e na Europa.
+Dos 16 sequenciamentos do Japão recentemente adicionados, 10 têm histórico de viagens a bordo de um cruzeiro pelo rio Nilo. Após serem diagnosticados e amostrados no Japão, todos os 16 se dividiram entre dois agrupamentos. Curiosamente, esses agrupamentos não se vinculam a outros sequenciamentos japoneses ou asiáticos, mas se enquadram em agrupamentos encontrados principalmente nos EUA e na Europa.
 <br><br>
 Assim, parece provável que esses viajantes japoneses foram infectados por cepas oriundas de outros viajantes europeus e americanos que visitavam o Egito. Como os sequenciamentos foram amostrados em meados de março depois que os viajantes retornaram ao Japão, fica evidente que variações que circulavam principalmente na Europa e nos EUA estavam sendo exportadas para todo o mundo no início de março por meio de viagens globais.
 <!-- There is no right side text -->
@@ -194,7 +194,7 @@ Conforme [relatamos na semana passada](https://nextstrain.org/narratives/ncov/si
 
 Este também é um exemplo poderoso de como os esforços abrangentes de seqüenciamento e o registro de viagens de um país podem nos ajudar a entender a situação local em outros lugares, mesmo em locais que ainda não estão gerando dados de sequenciamento.
 <br><br>
-Olhando para os casos sequenciados na Islândia após relatos de viagens à Áustria, vemos vários clusters de casos austríacos intimamente relacionados, sequenciados em um curto período de tempo. Isso é mais consistente com um cenário em que houve várias introduções na Áustria. Não podemos ter certeza se as sequências relacionadas representam  transmissão comunitária na Áustria ou apenas a parceiros de viagem se vinculando após a exposição à mesma cepa.
+Olhando para os casos sequenciados na Islândia após relatos de viagens à Áustria, vemos vários agrupamentos (clusters) de casos austríacos intimamente relacionados, sequenciados em um curto período de tempo. Isso é mais consistente com um cenário em que houve várias introduções na Áustria. Não podemos ter certeza se as sequências relacionadas representam  transmissão comunitária na Áustria ou apenas a parceiros de viagem se vinculando após a exposição à mesma cepa.
 <br><br>
 Embora mostrado em cinza, o número de conexões entre diferentes países europeus é notável. A maioria dos países europeus parece ter recebido várias introduções, então não há uma história "simples" sobre como o vírus se espalhou pela Europa — provavelmente se espalhou há várias semanas atrás.
 
@@ -223,9 +223,9 @@ Isso enfatiza que uma estratégia unificada será crucial para interromper esse 
 <!-- This is left-side text 14-->
 # [Duas cadeias de transmissão local circulando em Ontário (Canadá)](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Aqui, vemos dois clusters de sequenciamentos de Ontário (Canadá). Esses clusters não se agrupam, e cada cluster se aninha ao lado de amostras de outros países, indicando que estes foram o resultado de duas introduções separadas.
+Aqui, vemos dois agrupamentos (clusters) de sequenciamentos de Ontário (Canadá). Esses agrupamentos não se agrupam entre si, e cada um se situa ao lado de amostras de outros países, indicando que estes foram o resultado de duas introduções separadas.
 <br><br>
-Dentro de cada cluster, no entanto, cada um desses casos é mais intimamente relacionado a outros casos de Ontário, indicando que isso provavelmente configura transmissão comunitária.
+Dentro de cada agrupamento, no entanto, cada um desses casos é mais intimamente relacionado a outros casos de Ontário, indicando que isso provavelmente configura transmissão comunitária.
 <br><br>
 A partir disso, inferimos que provavelmente há transmissão comunitária ocorrendo em Ontário desde pelo menos o dia 3 de março.
 <br><br>
